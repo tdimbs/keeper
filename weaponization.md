@@ -148,26 +148,26 @@ CVE (Common Vulnerabilities and Exposures) is a standard for identifying publicl
 
 **Searching for known finding by its CVE ID of CVE-2018-8414 belong to 'Microsoft Windows SetttingContent-ms**
 
-![Searching for known finding by its CVE ID of CVE-2018-8414 belong to 'Microsoft Windows SetttingContent-ms'](.assets/weaponization-mc-settingsContent-ms-CVE.png)
+![Searching for known finding by its CVE ID of CVE-2018-8414 belong to 'Microsoft Windows SetttingContent-ms'](assets/weaponization-mc-settingsContent-ms-CVE.png)
 
 **Search result of CVE-2018-8414 belong to 'Microsoft Windows SetttingContent-ms**
-![Search result of CVE-2018-8414 belong to 'Microsoft Windows SetttingContent-ms'](.assets/weaponization-mc-settingsContent-ms-CVE2.png)
+![Search result of CVE-2018-8414 belong to 'Microsoft Windows SetttingContent-ms'](assets/weaponization-mc-settingsContent-ms-CVE2.png)
 
 **Weaponization of 'Microsoft Windows SetttingContent-ms' extension allow to execute any commands**  
 
-![Weaponization of 'Microsoft Windows SetttingContent-ms' extension allow to execute any commands](<.assets/weaponization-mc-settingsContent-ms-CVE3.png>)
+![Weaponization of 'Microsoft Windows SetttingContent-ms' extension allow to execute any commands](assets/weaponization-mc-settingsContent-ms-CVE3.png)
 
 Similarly, Citrix ADC and Gateway allowed directory traversal vulnerability (CVE-2019-19781) that leads attacker to gain remote code execution on the server. Citrix appliance does not sanitize and writes to an XML file that is created on the local file system. While writing to an XML file does not directly have to lead to remote code execution injecting Perl Template Toolkit instructions and parsing the file as a template does lead to code execution.
 
 **Search result for known finding by its name 'Citrix ADC and Gateway Directory Traversal**
-![Search result for known finding by its name 'Citrix ADC and Gateway Directory Traversal'](.assets/weaponization-citrix-adc-CVE4.png)
+![Search result for known finding by its name 'Citrix ADC and Gateway Directory Traversal'](assets/weaponization-citrix-adc-CVE4.png)
 
 **Weaponization of 'Citrix ADC and Gateway Directory Traversal' allowing to execute any commands on the server**
 
-![Weaponization of 'Citrix ADC and Gateway Directory Traversal' allowing to execute any commands on the server](.assets/weaponization-citrix-adc-CVE5.png)
+![Weaponization of 'Citrix ADC and Gateway Directory Traversal' allowing to execute any commands on the server](assets/weaponization-citrix-adc-CVE5.png)
 
 **Execution OS commands as a result of weaponizing the publicly disclosed vulnerability**  
-![Execution OS commands as a result of weaponizing the publicly disclosed vulnerability](.assets/weaponization-citrix-adc-CVE6.png)
+![Execution OS commands as a result of weaponizing the publicly disclosed vulnerability](assets/weaponization-citrix-adc-CVE6.png)
 
 Official CVE Publications can be accessed via the following sources:
 
