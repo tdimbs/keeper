@@ -241,11 +241,11 @@ As a result, an unauthenticated attacker can execute arbitrary commands on Micro
 
 **Searching for known finding by its name as 'proxylogon' via ExploitDB**
 
-![Searching for known finding by its name as 'proxylogon' via ExploitDB](.assets/weaponization-proxylogon-CVE7.png)
+![Searching for known finding by its name as 'proxylogon' via ExploitDB](assets/weaponization-proxylogon-CVE7.png)
 
 **Searching for known finding by its name as 'proxylogon' via 'searchsploit'**
 
-![Searching for known finding by its name as 'proxylogon' via 'searchsploit'](.assets/weaponization-proxylogon-CVE10.png)
+![Searching for known finding by its name as 'proxylogon' via 'searchsploit'](assets/weaponization-proxylogon-CVE10.png)
 
 **Details of 'proxylogon' exploit via 'searchsploit'**
 
@@ -253,25 +253,25 @@ As a result, an unauthenticated attacker can execute arbitrary commands on Micro
 
 **Publicly published ProxyLogon Proof of Concept (PoC) Script**
 
-![Publicly published ProxyLogon Proof of Concept (PoC) Script](.assets/weaponization-proxylogon-CVE8.png)
+![Publicly published ProxyLogon Proof of Concept (PoC) Script](assets/weaponization-proxylogon-CVE8.png)
 
 **Weaponization of 'ProxyLogon' allowing to execute any commands on the server**
 
-![Weaponization of 'ProxyLogon' allowing to execute any commands on the server](.assets/weaponization-proxylogon-CVE9.png)
+![Weaponization of 'ProxyLogon' allowing to execute any commands on the server](assets/weaponization-proxylogon-CVE9.png)
 
 Similarly, searching for SQL injection vulnerability is using ExploitDB and searchsploit.
 
 **Searching for known finding by its name as 'Casdoor 1.13.0 SQL Injection' via 'searchsploit'**
 
-![Searching for known finding by its name as 'Casdoor 1.13.0 SQL Injection' via 'searchsploit'](.assets/weaponization-sqlinjection-CVE12.png)
+![Searching for known finding by its name as 'Casdoor 1.13.0 SQL Injection' via 'searchsploit'](assets/weaponization-sqlinjection-CVE12.png)
 
 **Searching for known finding by its name as 'Casdoor 1.13.0 SQL Injection' via ExploitDB**
 
-![Searching for known finding by its name as 'Casdoor 1.13.0 SQL Injection' via ExploitDB](.assets/weaponization-sqlinjection-CVE13.png)
+![Searching for known finding by its name as 'Casdoor 1.13.0 SQL Injection' via ExploitDB](assets/weaponization-sqlinjection-CVE13.png)
 
 **Weaponization of 'SQL Injection' allowing to execute any SQL queries on the server**
 
-![Weaponization of 'SQL Injection' allowing to execute any SQL queries on the server](.assets/weaponization-sqlinjection-CVE14.png)
+![Weaponization of 'SQL Injection' allowing to execute any SQL queries on the server](assets/weaponization-sqlinjection-CVE14.png)
 
 ## References
 
