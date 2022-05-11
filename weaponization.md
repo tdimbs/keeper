@@ -249,7 +249,7 @@ As a result, an unauthenticated attacker can execute arbitrary commands on Micro
 
 **Details of 'proxylogon' exploit via 'searchsploit'**
 
-![Details of 'proxylogon' exploit via 'searchsploit'](.assets/weaponization-proxylogon-CVE11.png)
+![Details of 'proxylogon' exploit via 'searchsploit'](assets/weaponization-proxylogon-CVE11.png)
 
 **Publicly published ProxyLogon Proof of Concept (PoC) Script**
 
