@@ -278,7 +278,7 @@ Similarly, searching for SQL injection vulnerability is using ExploitDB and sear
 
 [^metasploit_telnet]: [Metasploit Scanner Telnet Auxiliary Modules](https://www.offensive-security.com/metasploit-unleashed/scanner-telnet-auxiliary-modules/)
 
-[^metasploit_telnet]: [Metasploit Scanner FTP Auxiliary Modules](https://www.offensive-security.com/metasploit-unleashed/scanner-ftp-auxiliary-modules/)
+[^metasploit_ftp]: [Metasploit Scanner FTP Auxiliary Modules](https://www.offensive-security.com/metasploit-unleashed/scanner-ftp-auxiliary-modules/)
 
 [^metasploit_ssh_enumusers]: [Metasploit Scanner SSH User Enumeration Auxiliary Module](https://www.rapid7.com/db/modules/auxiliary/scanner/ssh/ssh_enumusers/)
 
