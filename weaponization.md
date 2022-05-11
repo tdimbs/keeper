@@ -15,6 +15,7 @@ Regularly targeted application layer services:
 - Domain Name System (DNS)
 - Hypertext Transfer Protocol (HTTP)
 - Server Message Block (SMB)
+
 How the services can be used by a malicious/weaponized software?
 
 ### File Transfer Protocol (FTP)
